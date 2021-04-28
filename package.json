@@ -4,7 +4,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "version": "10.0.3-fix3",
   "scripts": {
     "lerna": "lerna",
     "dev": "lerna run dev --stream --parallel",
